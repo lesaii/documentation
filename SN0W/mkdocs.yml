@@ -1,0 +1,28 @@
+site_name: SN0W ＜＞＜ DOCUMENTATION
+nav:
+  - Home: index.md
+  - About: about.md
+  - Support: support.md
+theme:
+  name: simple-blog
+  favicon: https://i.postimg.cc/sBMP24dy/snow-logo-small.png
+  logo: https://i.postimg.cc/sBMP24dy/snow-logo-small.png
+  theme_style: dark
+  site_name_style: bold
+  title_style: bold
+  sidebar: true
+  navigation_depth: 2
+  highlightjs: true
+    - yaml
+    - python
+  colors:
+    text: black
+    title: black
+    primary: black
+    background: white
+  components:
+    site_name: true
+    title: false
+    menu: true
+    preview: true
+    footer: true
