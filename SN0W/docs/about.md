@@ -11,11 +11,11 @@ This is for those who want to create, **ROSE ＜＞＜** members, those who aim 
 
 **HOW DO I JOIN THE DISCORD SERVER**
 
-click on this --> **SN0W ＜＞＜ Discord Server**
+click on this --> [**SN0W ＜＞＜ Discord Server**](https://discord.gg/vrEWrzQsHQ)
 
 **AND HOW ABOUT THE VRCHAT GROUP?**
 
-click on that --> **SN0W ＜＞＜ VRChat Group**
+click on that --> [**SN0W ＜＞＜ VRChat Group**](https://vrc.group/SNOW.4963)
 
 **HOW CAN I CONTRIBUTE TO THE DOCUMENTATION?**
 
