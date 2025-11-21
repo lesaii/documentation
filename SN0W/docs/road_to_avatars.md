@@ -59,4 +59,22 @@ There are lots of cool stuff there !
 
 &nbsp;
 
+After you have made and uploaded your avatar, if it's public, share it around with your friends, [SNOW ＜＞＜](https://discord.gg/vrEWrzQsHQ), and [The ＜＞＜ community](https://discord.gg/Z34mSSM)!
+
+If your avatar is meant to be submitted for CRYSTALL1ZED ＜＞＜, then head over to the [SN0W ＜＞＜ discord server](https://discord.gg/vrEWrzQsHQ) and submit your avatar at the CRYSTALL1ZED contributions channel! 
+
+![CRYSTALL1ZED_CONTRIBUTIONS](https://i.postimg.cc/RZKCvsT1/snow-contributions.png)
+
+*Above: VISUAL ON THE LOCATION OF THE CRYSTALL1ZED CONTRIBUTIONS CHANNEL*
+
+&nbsp;
+
+If your avatar is meant to be submitted for ROSE ＜＞＜ , then go over to the [＜＞＜ community discord server](https://discord.gg/Z34mSSM) and submit your avatar at the ROSE FISH contributions channel!
+
+![CONTRIBUTIONS](https://i.postimg.cc/T3n0V3Kr/contributions.png)
+
+*Above: VISUAL ON THE LOCATION OF THE ROSE CONTRIBUTIONS CHANNEL*
+
+&nbsp;
+
 *This page was written by le Saii*
