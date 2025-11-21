@@ -2,20 +2,20 @@
 
 **WHAT IS THIS?**
 
-This is a documentation teaches you the overalls of creation, as well as being a guide to ROSE ＜＞＜ and SN0W ＜＞＜ CRYSTALLIZATION.
+This is a documentation teaches you the overalls of creation, as well as being a guide to **ROSE ＜＞＜** and **SN0W ＜＞＜ CRYSTALLIZATION**.
 
 
 **WHO IS THIS FOR?**
 
-This is for those who want to create, ROSE ＜＞＜ members, those who aim to become a part of ROSE ＜＞＜, and those who aim to be CRYSTALLIZED.
+This is for those who want to create, **ROSE ＜＞＜** members, those who aim to become a part of **ROSE ＜＞＜**, and those who aim to be **CRYSTALLIZED**.
 
 **HOW DO I JOIN THE DISCORD SERVER**
 
-click on this --> SN0W ＜＞＜ Discord Server
+click on this --> **SN0W ＜＞＜ Discord Server**
 
 **AND HOW ABOUT THE VRCHAT GROUP?**
 
-click on that --> SN0W ＜＞＜ VRChat Group
+click on that --> **SN0W ＜＞＜ VRChat Group**
 
 **HOW CAN I CONTRIBUTE TO THE DOCUMENTATION?**
 
