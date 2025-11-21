@@ -2,7 +2,7 @@
 
 bet
 
-So go over to the [SN0W ＜＞＜ discord server](https://discord.gg/vrEWrzQsHQ)
+So go over to the [**SN0W ＜＞＜ discord server**](https://discord.gg/vrEWrzQsHQ)
 
 ![submissions](https://i.postimg.cc/Gp6MwLMB/submissions.png)
 
