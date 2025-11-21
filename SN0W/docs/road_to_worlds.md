@@ -32,7 +32,7 @@ You could choose one of the 3 options from now on:
 
 If you want a little push when it comes to modeling, there's a [more in depth tutorial for pro-builder](https://youtu.be/YsBniZ5ya7k?si=JiJ2gvPkbnS4h0HP)
 
-For external assets you can go to [booth](https://booth.pm/), the [Unity Asset Store](https://assetstore.unity.com), or the 3d models channel in the [＜＞＜ community discord server](https://discord.gg/Z34mSSM), get some models and drag and drop them into your unity project
+For external assets you can go to [booth](https://booth.pm/), the [Unity Asset Store](https://assetstore.unity.com), or the 3d models channel in [**The＜＞＜ community Discord Server**](https://discord.gg/Z34mSSM), get some models and drag and drop them into your unity project
 
 As for blender...god bless you
 
@@ -80,7 +80,7 @@ you can do so by searching around [booth](https://booth.pm/), or any other marke
 
 orrr
 
-by going over to the [＜＞＜ community discord server](https://discord.gg/Z34mSSM)
+by going over to [**The ＜＞＜ community Discord Server**](https://discord.gg/Z34mSSM)
 
 ![world_prefabs](https://i.postimg.cc/L5vPBDwg/world-prefabs.png)
 
@@ -88,7 +88,7 @@ by going over to the [＜＞＜ community discord server](https://discord.gg/Z34
 
 &nbsp;
 
-clicking on the world prefabs channel, downloading some cool stuff the ＜＞＜ community has made, and dropping them into your world!
+clicking on the world prefabs channel, downloading some cool stuff the **＜＞＜ community** has made, and dropping them into your world!
 
 &nbsp;
 
@@ -120,9 +120,9 @@ Though it will take longer if you're particular about the kind of lighting you w
 
 And with that You are finished with the world!
 
-Just upload your world and see how it looks! if it looks good, publish it to community labs and share it around with your friends, [SNOW ＜＞＜](https://discord.gg/vrEWrzQsHQ), and [The ＜＞＜ community](https://discord.gg/Z34mSSM)!
+Just upload your world and see how it looks! if it looks good, publish it to community labs and share it around with your friends, [**SNOW ＜＞＜**](https://discord.gg/vrEWrzQsHQ), and [**The ＜＞＜ community**](https://discord.gg/Z34mSSM)!
 
-If your world is meant to be submitted for CRYSTALL1ZED ＜＞＜, then head over to the [SN0W ＜＞＜ discord server](https://discord.gg/vrEWrzQsHQ) and submit your world at the CRYSTALL1ZED contributions channel! 
+If your world is meant to be submitted for **CRYSTALL1ZED ＜＞＜**, then head over to the [**SN0W ＜＞＜ discord server**](https://discord.gg/vrEWrzQsHQ) and submit your world at the **CRYSTALL1ZED** contributions channel! 
 
 ![CRYSTALL1ZED_CONTRIBUTIONS](https://i.postimg.cc/RZKCvsT1/snow-contributions.png)
 
@@ -130,7 +130,7 @@ If your world is meant to be submitted for CRYSTALL1ZED ＜＞＜, then head ove
 
 &nbsp;
 
-If your world is meant to be submitted for ROSE ＜＞＜ , then go over to the [＜＞＜ community discord server](https://discord.gg/Z34mSSM) and submit your world at the ROSE FISH contributions channel!
+If your world is meant to be submitted for **ROSE ＜＞＜** , then go over to [The ＜＞＜ community Discord Server](https://discord.gg/Z34mSSM) and submit your world at the **ROSE FISH** contributions channel!
 
 ![CONTRIBUTIONS](https://i.postimg.cc/T3n0V3Kr/contributions.png)
 
