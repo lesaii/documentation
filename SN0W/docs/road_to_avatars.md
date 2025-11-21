@@ -11,7 +11,7 @@ Second things second, **find a base**
 
 just go on [BOOTH](https://booth.pm/) and find a base that you like
 
-Or alternatively use an **Unk**(a free avatar base that cunks_feet made himself) by going over to the [CHEESE ＜＞＜ discord server](https://discord.gg/xf4qvPYe7Z) and then asking [cunks_feet](https://vrchat.com/home/user/usr_78aad47e-8f05-4abd-92bf-698d468ad561) in [DAILY VRCHAT](https://discord.gg/Z34mSSM) for an **Unk**. Don't worry too much about asking him about this, he won't mind.
+Or alternatively use an **Unk**(a free avatar base that cunks_feet made himself) by going over to the [**CHEESE ＜＞＜ discord server**](https://discord.gg/xf4qvPYe7Z) and then asking [cunks_feet](https://vrchat.com/home/user/usr_78aad47e-8f05-4abd-92bf-698d468ad561) in [**DAILY VRCHAT**](https://www.theziver.com/daily.html) for an **Unk**. Don't worry too much about asking him about this, he won't mind.
 
 ![UNK PICTURE](https://i.postimg.cc/W1mjfmRR/VRChat-2025-08-02-16-05-56-835-1920x1080.png)
 
@@ -35,7 +35,7 @@ Also the documentations above will help you in the journey of making your avatar
 
 &nbsp;
 
-Also one bonus thing, if you want to find some cool stuff to add to your avatar, go over to the [＜＞＜ community discord server](https://discord.gg/Z34mSSM) 
+Also one bonus thing, if you want to find some cool stuff to add to your avatar, go over to [**The ＜＞＜ community discord server**](https://discord.gg/Z34mSSM) 
 
 ![avatar_prefabs](https://i.postimg.cc/XYSdbZWk/avatar-prefabs.png)
 
@@ -45,7 +45,7 @@ Also one bonus thing, if you want to find some cool stuff to add to your avatar,
 
 and click on the avatar prefabs channel
 
-or alternatively go over to the [CHEESE ＜＞＜ discord server](https://discord.gg/xf4qvPYe7Z)
+or alternatively go over to the [**CHEESE ＜＞＜ discord server**](https://discord.gg/xf4qvPYe7Z)
 
 ![avatar_prefabs_cheese](https://i.postimg.cc/nLWzdQcV/avatar-prefabs-cheese.png)
 
@@ -59,9 +59,9 @@ There are lots of cool stuff there !
 
 &nbsp;
 
-After you have made and uploaded your avatar, if it's public, share it around with your friends, [SNOW ＜＞＜](https://discord.gg/vrEWrzQsHQ), and [The ＜＞＜ community](https://discord.gg/Z34mSSM)!
+After you have made and uploaded your avatar, if it's public, share it around with your friends, [**SNOW ＜＞＜**](https://discord.gg/vrEWrzQsHQ), and [**The ＜＞＜ community**](https://discord.gg/Z34mSSM)!
 
-If your avatar is meant to be submitted for CRYSTALL1ZED ＜＞＜, then head over to the [SN0W ＜＞＜ discord server](https://discord.gg/vrEWrzQsHQ) and submit your avatar at the CRYSTALL1ZED contributions channel! 
+If your avatar is meant to be submitted for **CRYSTALL1ZED ＜＞＜**, then head over to the [**SN0W ＜＞＜ discord server**](https://discord.gg/vrEWrzQsHQ) and submit your avatar at the **CRYSTALL1ZED** contributions channel! 
 
 ![CRYSTALL1ZED_CONTRIBUTIONS](https://i.postimg.cc/RZKCvsT1/snow-contributions.png)
 
@@ -69,7 +69,7 @@ If your avatar is meant to be submitted for CRYSTALL1ZED ＜＞＜, then head ov
 
 &nbsp;
 
-If your avatar is meant to be submitted for ROSE ＜＞＜ , then go over to the [＜＞＜ community discord server](https://discord.gg/Z34mSSM) and submit your avatar at the ROSE FISH contributions channel!
+If your avatar is meant to be submitted for **ROSE ＜＞＜** , then go over to [**The ＜＞＜ community Discord Server**](https://discord.gg/Z34mSSM) and submit your avatar at the ROSE FISH contributions channel!
 
 ![CONTRIBUTIONS](https://i.postimg.cc/T3n0V3Kr/contributions.png)
 
