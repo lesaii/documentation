@@ -16,12 +16,12 @@ When someone joins ROSE ＜＞＜, they get access to exclusive things like:
 - You can share 3D models, Art Graphics, Sound effects and other stuff with everyone on this server.
 - Avatars more promoted at the [**＜＞＜ AVATARS** world](https://vrchat.com/home/world/wrld_27d4ceaf-bb2c-4e71-b986-3426886d4c9d)
 - Access to the exclusive discord channels made for ROSE ＜＞＜ members  
-- An exclusive ROSE ＜＞＜ discord role
+- An exclusive **ROSE ＜＞＜** discord role
 - Invitation to the [ROSE ＜＞＜ VRChat group](https://vrc.group/ROSE.6063)
 
 ## **QUALIFICATIONS**
 
-To join ROSE ＜＞＜ you need to make a contribution that requires human effort to create and could be easily used by the fish community members. For example:
+To join **ROSE ＜＞＜** you need to make a contribution that requires human effort to create and could be easily used by the fish community members. For example:
 
 - Public VRChat avatar/world
 - Films
