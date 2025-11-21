@@ -119,9 +119,9 @@ This is the last thing you will do in a film, it's basically the transcribing wh
 
 After you're done with pre-production, production and post-production, you are ready to publish your film!
 
-Make sure to title it as something and share it around with your friends, [SN0W ＜＞＜](https://discord.gg/vrEWrzQsHQ) and [The ＜＞＜ community](https://discord.gg/Z34mSSM)!
+Make sure to title it as something and share it around with your friends, [**SN0W ＜＞＜**](https://discord.gg/vrEWrzQsHQ) and [**The ＜＞＜ community**](https://discord.gg/Z34mSSM)!
 
-If your film is meant to be submitted for CRYSTALL1ZED ＜＞＜, then head over to the [SN0W ＜＞＜ discord server](https://discord.gg/vrEWrzQsHQ) and submit your film at the CRYSTALL1ZED contributions channel! 
+If your film is meant to be submitted for **CRYSTALL1ZED ＜＞＜**, then head over to [**The SN0W ＜＞＜ Discord Server**](https://discord.gg/vrEWrzQsHQ) and submit your film at the **CRYSTALL1ZED** contributions channel! 
 
 ![CRYSTALL1ZED_CONTRIBUTIONS](https://i.postimg.cc/RZKCvsT1/snow-contributions.png)
 
@@ -129,7 +129,7 @@ If your film is meant to be submitted for CRYSTALL1ZED ＜＞＜, then head over
 
 &nbsp;
 
-If your film is meant to be submitted for ROSE ＜＞＜ , then go over to the [＜＞＜ community discord server](https://discord.gg/Z34mSSM) and submit your film at the ROSE FISH contributions channel!
+If your film is meant to be submitted for **ROSE ＜＞＜** , then go over to [**The ＜＞＜ community Discord Server**](https://discord.gg/Z34mSSM) and submit your film at the **ROSE FISH** contributions channel!
 
 ![CONTRIBUTIONS](https://i.postimg.cc/T3n0V3Kr/contributions.png)
 
