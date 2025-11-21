@@ -1,1 +1,1 @@
-This is the website for the SN0W ＜＞＜ Documentation
+This is the website for the SN0W ＜＞＜ Documentationdig EXAMPLE.COM +noall +answer -t A

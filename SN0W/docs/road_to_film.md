@@ -59,13 +59,17 @@ If your film is really short and requires a really small amount of shots with pe
 
 But if it requires more than 2 shots, then follow these 3 steps
 
-- Plan it out. Plan your film sessions for Late Friday and Late Saturday EST
-- (optional) Make a discord server or a group chat
+- Plan it out. Plan your film sessions for Late Friday and Late Saturday EST.
+- (optional) Make a discord server or a group chat.
 - Find people. Go to publics and/or your friends and ask them to be in your film session, tell them when, and if you have done point 2, then invite them to your discord/group chat with the message on when the film session is, posted in there.
 
 **Execute the Film Session**
 
 Now that everything is planned out, when the film session starts, load up [OBS](https://obsproject.com), invite your people, and start the film session!
+
+also a little tip, if you asked your friends, see if you can get them to record their voicelines in audacity while they are in the film session. It could help you get better control of your audio during post-production.
+
+if you won't do that and your film needs voice lines, you will need to find people to record some voice lines for you.
 
 &nbsp;
 
@@ -111,3 +115,26 @@ You can look up some cool VFX tutorials on YouTube but I recommend looking at ch
 
 This is the last thing you will do in a film, it's basically the transcribing what the characters say on screen and/or putting text in the film.
 
+&nbsp;
+
+After you're done with pre-production, production and post-production, you are ready to publish your film!
+
+Make sure to title it as something and share it around with your friends, [SN0W ＜＞＜](https://discord.gg/vrEWrzQsHQ) and [The ＜＞＜ community](https://discord.gg/Z34mSSM)!
+
+If your film is meant to be submitted for CRYSTALL1ZED ＜＞＜, then head over to the [SN0W ＜＞＜ discord server](https://discord.gg/vrEWrzQsHQ) and submit your film at the CRYSTALL1ZED contributions channel! 
+
+![CRYSTALL1ZED_CONTRIBUTIONS](https://i.postimg.cc/RZKCvsT1/snow-contributions.png)
+
+*Above: VISUAL ON THE LOCATION OF THE CRYSTALL1ZED CONTRIBUTIONS CHANNEL*
+
+&nbsp;
+
+If your film is meant to be submitted for ROSE ＜＞＜ , then go over to the [＜＞＜ community discord server](https://discord.gg/Z34mSSM) and submit your film at the ROSE FISH contributions channel!
+
+![CONTRIBUTIONS](https://i.postimg.cc/T3n0V3Kr/contributions.png)
+
+*Above: VISUAL ON THE LOCATION OF THE ROSE CONTRIBUTIONS CHANNEL*
+
+&nbsp;
+
+*This page was written by le Saii*
