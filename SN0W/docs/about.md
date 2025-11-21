@@ -21,12 +21,12 @@ click on that --> [**SN0W ＜＞＜ VRChat Group**](https://vrc.group/SNOW.4963)
 
 You can contribute by [submitting your own pages](submit.md) to the documentation
 
-**HOW CAN I CONTACT THE OWNER**
+**HOW CAN I CONTACT THE OWNER?**
 
 Email: saii@lesaii.com
 
 Discord: lesaii (please make sure to message me with "I found you on the documentation" in your first message so I don't mistake you for a scammer)
 
-**HOW CAN I SUPPORT THE OWNER**
+**HOW CAN I SUPPORT THE OWNER?**
 
 There is no way to support lesaii as of now
