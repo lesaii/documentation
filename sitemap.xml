@@ -1,3 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://docs.lesaii.com/</loc>
+  <lastmod>2025-11-23T21:57:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+
+<url>
+  <loc>https://docs.lesaii.com/about/</loc>
+  <lastmod>2025-11-23T21:57:31+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+
+<url>
+  <loc>https://docs.lesaii.com/support/</loc>
+  <lastmod>2025-11-23T21:57:31+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+
+<url>
+  <loc>https://docs.lesaii.com/road_to_rose/</loc>
+  <lastmod>2025-11-23T21:57:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://docs.lesaii.com/road_to_crystallized/</loc>
+  <lastmod>2025-11-23T21:57:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://docs.lesaii.com/road_to_worlds/</loc>
+  <lastmod>2025-11-23T21:57:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://docs.lesaii.com/road_to_avatars/</loc>
+  <lastmod>2025-11-23T21:57:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://docs.lesaii.com/road_to_film/</loc>
+  <lastmod>2025-11-23T21:57:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://docs.lesaii.com/submit/</loc>
+  <lastmod>2025-11-23T21:57:31+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+
 </urlset>
